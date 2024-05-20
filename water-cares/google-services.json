@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238150573294",
+    "project_id": "watercaresnot",
+    "storage_bucket": "watercaresnot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238150573294:android:db3be04be1e8578c0f67ff",
+        "android_client_info": {
+          "package_name": "com.waterkeepers.watercares"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8RIb2riu-uyDOx0oM3L2tIz78Mh0L90I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
